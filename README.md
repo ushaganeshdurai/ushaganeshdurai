@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm USHA NANDHINI GANESH DURAI</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<img src="https://github.com/ushaganeshdurai/ushaganeshdurai/blob/main/github-header-image.png"  alt="animated-img"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushaganeshdurai&label=Profile%20views&color=0e75b6&style=flat" alt="ushaganeshdurai" /> </p>
 
 - 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **gushanandhini2004@gmail.com**
-  <img src="https://github.com/ushaganeshdurai/ushaganeshdurai/blob/main/undraw_Dev_focus_re_6iwt.png"  alt="animated-img"/>
+  
   <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
