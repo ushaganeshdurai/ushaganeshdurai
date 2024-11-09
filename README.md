@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ushaganeshdurai&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ushaganeshdurai&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ushaganeshdurai&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ushaganeshdurai)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=ushaganeshdurai&icon=0&color=13)](https://visitcount.itsvg.in)
 
